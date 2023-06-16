@@ -1,3 +1,5 @@
+package W3Resource;
+
 import java.util.Scanner;
 
 public class W3Question32 {
